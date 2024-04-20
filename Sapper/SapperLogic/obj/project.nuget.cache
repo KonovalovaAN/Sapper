@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+22NGKcnmpRlUScjlBNfrY6z4wbvTj78iwF0NSF9JvdvJ+x/uhfobkxhPaU+rpQaq+vvMY0Bnd0Pt9sE1KhzrA==",
+  "success": true,
+  "projectFilePath": "D:\\ПАПКА РИНАТА НЕ ВХОДИТЬ\\Sapper\\SapperLogic\\SapperLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

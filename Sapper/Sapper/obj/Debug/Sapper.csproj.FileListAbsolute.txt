@@ -1,0 +1,43 @@
+D:\prog\c# projects\Sapper\Sapper\bin\Debug\Sapper.exe.config
+D:\prog\c# projects\Sapper\Sapper\bin\Debug\Sapper.exe
+D:\prog\c# projects\Sapper\Sapper\bin\Debug\Sapper.pdb
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.csprojAssemblyReference.cache
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.exe
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.pdb
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.Form1.resources
+D:\prog\c# projects\Sapper\Sapper\bin\Debug\SapperLogic.dll
+D:\prog\c# projects\Sapper\Sapper\bin\Debug\SapperLogic.pdb
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.CopyComplete
+D:\prog\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+D:\prog\old\c# projects\Sapper\Sapper\bin\Debug\Sapper.exe.config
+D:\prog\old\c# projects\Sapper\Sapper\bin\Debug\Sapper.exe
+D:\prog\old\c# projects\Sapper\Sapper\bin\Debug\Sapper.pdb
+D:\prog\old\c# projects\Sapper\Sapper\bin\Debug\SapperLogic.dll
+D:\prog\old\c# projects\Sapper\Sapper\bin\Debug\SapperLogic.pdb
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.SuggestedBindingRedirects.cache
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.Form1.resources
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.csproj.CopyComplete
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.exe
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.pdb
+D:\prog\old\c# projects\Sapper\Sapper\obj\Debug\Sapper.Form2.resources
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\bin\Debug\Sapper.exe.config
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\bin\Debug\Sapper.exe
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\bin\Debug\Sapper.pdb
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\bin\Debug\SapperLogic.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\bin\Debug\SapperLogic.pdb
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.csproj.AssemblyReference.cache
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.csproj.SuggestedBindingRedirects.cache
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.Form1.resources
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.Form2.resources
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.csproj.CopyComplete
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.exe
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\Sapper\obj\Debug\Sapper.pdb

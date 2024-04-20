@@ -1,0 +1,68 @@
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.deps.json
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.dll
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.pdb
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Security.dll
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\Accessibility.dll
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Security.xml
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\Accessibility.xml
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Deployment.xml
+D:\prog\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+D:\prog\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csprojAssemblyReference.cache
+D:\prog\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.AssemblyInfoInputs.cache
+D:\prog\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.AssemblyInfo.cs
+D:\prog\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.CopyComplete
+D:\prog\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.dll
+D:\prog\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.pdb
+D:\prog\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.CoreCompileInputs.cache
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.deps.json
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.pdb
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Security.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\Accessibility.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Security.xml
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\Accessibility.xml
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Deployment.xml
+D:\prog\old\c# projects\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.AssemblyReference.cache
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.AssemblyInfoInputs.cache
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.AssemblyInfo.cs
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.CoreCompileInputs.cache
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.CopyComplete
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.dll
+D:\prog\old\c# projects\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.pdb
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.deps.json
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\SapperLogic.pdb
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Security.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\Accessibility.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Security.xml
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\Accessibility.xml
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Deployment.xml
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.AssemblyReference.cache
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.AssemblyInfoInputs.cache
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.AssemblyInfo.cs
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.CoreCompileInputs.cache
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.csproj.CopyComplete
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.dll
+D:\ПАПКА РИНАТА НЕ ВХОДИТЬ\Sapper\SapperLogic\obj\Debug\netstandard2.0\SapperLogic.pdb
